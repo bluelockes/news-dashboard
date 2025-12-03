@@ -42,11 +42,15 @@ def save_db(data):
 # NEW OPENAI API (2025+)
 # -----------------------------
 def translate_text(text):
+    api_key = OPENAI_KEY
+    if not api_key:
+        return "[TRANSLATION ERROR] Missing OPENAI_API_KEY"
+
     url = "https://api.openai.com/v1/responses"
 
     headers = {
-        "Authorization": f"Bearer {OPENAI_KEY}",
-        "Content-Type": "application/json"
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
     }
 
     payload = {
@@ -59,14 +63,42 @@ def translate_text(text):
         r = requests.post(url, headers=headers, json=payload, timeout=20)
         res = r.json()
 
-        # New Responses API format
-        return res["output"][0]["content"][0]["text"]
+        # -------------------------
+        # 1) ถ้ามี output_text (ง่ายสุด)
+        # -------------------------
+        if "output_text" in res:
+            return res["output_text"]
+
+        # -------------------------
+        # 2) Responses API แบบใหม่
+        # -------------------------
+        try:
+            return res["output"][0]["content"][0]["text"]
+        except:
+            pass
+
+        # -------------------------
+        # 3) Chat-style fallback (บางโมเดลส่งแบบเก่า)
+        # -------------------------
+        try:
+            return res["choices"][0]["message"]["content"]
+        except:
+            pass
+
+        # -------------------------
+        # 4) ถ้าเป็น error จาก API
+        # -------------------------
+        if "error" in res:
+            return f"[TRANSLATION ERROR] {res['error']['message']}"
+
+        # -------------------------
+        # 5) ถ้าจับไม่ได้จริง ๆ
+        # -------------------------
+        return f"[TRANSLATION ERROR] raw_response: {res}"
 
     except Exception as e:
-        return f"[TRANSLATION ERROR] {e}"
+        return f"[TRANSLATION ERROR] {str(e)}"
 
-    except KeyError:
-        return f"[TRANSLATION ERROR] raw_response: {res}"
 
 
 # -----------------------------
