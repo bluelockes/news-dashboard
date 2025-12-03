@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Boat's Personal News Dashboard</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 text-gray-900">
+  <div class="max-w-3xl mx-auto p-6">
+
+    <h1 class="text-3xl font-bold mb-6">🌍 Boat's News Dashboard</h1>
+
+    <div id="news-list" class="space-y-6"></div>
+
+  </div>
+
+  <script>
+    async function loadNews() {
+      const res = await fetch("data/news.json");
+      const news = await res.json();
+
+      const container = document.getElementById("news-list");
+      container.innerHTML = "";
+
+      news.forEach(item => {
+        const box = document.createElement("div");
+        box.className = "bg-white p-5 shadow rounded";
+
+        box.innerHTML = `
+          <p class="text-sm text-gray-500">${item.source} | ${new Date(item.timestamp).toLocaleString()}</p>
+          <h2 class="text-xl font-semibold mt-1">${item.title}</h2>
+          <a href="${item.link}" class="text-blue-500 underline" target="_blank">อ่านต้นฉบับ</a>
+          <p class="mt-3 whitespace-pre-line">${item.translated}</p>
+        `;
+
+        container.appendChild(box);
+      });
+    }
+
+    loadNews();
+  </script>
+
+</body>
+</html>

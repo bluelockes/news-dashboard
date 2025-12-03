@@ -1,0 +1,11 @@
+news-dashboard/
+ ├── data/
+ │    └── news.json        # DB ข่าวทั้งหมด
+ ├── scripts/
+ │    └── fetch_and_update.py
+ ├── index.html            # Dashboard UI
+ ├── style.css             # (optional) ถ้าคุณอยากแต่งเพิ่ม
+ └── .github/
+      └── workflows/
+            └── cron.yml
+
