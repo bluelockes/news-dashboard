@@ -4,33 +4,76 @@
 <meta charset="UTF-8">
 <title>News Dashboard</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <style>
     body {
         font-family: sans-serif;
-        background: #f7f7f7;
+        background: var(--bg);
+        color: var(--text);
         margin: 0;
         padding: 20px;
+        transition: 0.25s;
+    }
+
+    :root {
+        --bg: #ffffff;
+        --text: #000000;
+        --card: #ffffff;
+        --border: #ddd;
+    }
+
+    body.dark {
+        --bg: #0d1117;
+        --text: #e6edf3;
+        --card: #161b22;
+        --border: #30363d;
     }
 
     h1 {
         text-align: center;
-        margin-bottom: 30px;
+        margin-bottom: 10px;
+    }
+
+    .controls {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-bottom: 25px;
+    }
+
+    button, input {
+        padding: 10px 15px;
+        border-radius: 6px;
+        border: 1px solid var(--border);
+        background: var(--card);
+        color: var(--text);
+        font-size: 14px;
+    }
+
+    button:hover {
+        cursor: pointer;
+        opacity: 0.85;
+    }
+
+    input {
+        width: 200px;
     }
 
     .section-title {
-        background: #222;
-        color: #fff;
+        background: #0a58ca;
+        color: white;
         padding: 10px;
         margin-top: 40px;
-        font-size: 20px;
+        font-size: 18px;
+        border-radius: 6px;
     }
 
     .news-card {
-        background: white;
+        background: var(--card);
         padding: 15px;
         margin: 12px 0;
         border-radius: 8px;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+        border: 1px solid var(--border);
     }
 
     .source {
@@ -41,11 +84,10 @@
 
     .title {
         font-size: 17px;
-        margin-bottom: 10px;
+        margin-bottom: 8px;
     }
 
     .translated {
-        color: #222;
         font-size: 15px;
         padding-left: 10px;
         border-left: 3px solid #0a58ca;
@@ -53,8 +95,8 @@
     }
 
     .time {
-        font-size: 13px;
         color: gray;
+        font-size: 13px;
     }
 
     a {
@@ -62,53 +104,107 @@
         text-decoration: none;
     }
 
+    body.dark a {
+        color: #58a6ff;
+    }
+
     a:hover {
         text-decoration: underline;
     }
 </style>
 </head>
-<body>
+<body class="dark">
 
 <h1>🌎 News Dashboard</h1>
+
+<div class="controls">
+    <input id="searchBox" placeholder="ค้นหาข่าว...">
+    <button onclick="refreshNews()">🔄 Refresh</button>
+    <button onclick="toggleDark()">🌙/☀️</button>
+</div>
 
 <div id="sections"></div>
 
 <script>
-async function loadNews() {
-    const res = await fetch("data/news.json");
-    const allNews = await res.json();
+let allNews = [];
 
-    // ORDER: Reuters → BBC → AP
+async function loadNews() {
+    const res = await fetch("data/news.json?cache=" + Date.now());
+    allNews = await res.json();
+    renderSections(allNews);
+}
+
+function toggleDark() {
+    document.body.classList.toggle("dark");
+}
+
+function refreshNews() {
+    loadNews();
+}
+
+function renderSections(data) {
+    const container = document.getElementById("sections");
+    container.innerHTML = "";
+
+    // --------------------------
+    // Latest News Section
+    // --------------------------
+    const latestTitle = document.createElement("div");
+    latestTitle.className = "section-title";
+    latestTitle.textContent = "🟦 Latest News";
+    container.appendChild(latestTitle);
+
+    const latest = [...data].sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp)).slice(0, 10);
+    latest.forEach(news => container.appendChild(buildCard(news)));
+
+    // --------------------------
+    // News by Source
+    // --------------------------
     const sources = ["Reuters", "BBC", "AP"];
 
-    const container = document.getElementById("sections");
-
     sources.forEach(source => {
-
         const sectionTitle = document.createElement("div");
         sectionTitle.className = "section-title";
         sectionTitle.textContent = source + " News";
         container.appendChild(sectionTitle);
 
-        const filtered = allNews.filter(n => n.source === source);
+        const filtered = data.filter(n => n.source === source);
 
-        filtered.forEach(news => {
-            const card = document.createElement("div");
-            card.className = "news-card";
-
-            card.innerHTML = `
-                <div class="source">${news.source}</div>
-                <div class="title">
-                    <a href="${news.link}" target="_blank">${news.title}</a>
-                </div>
-                <div class="translated">${news.translated}</div>
-                <div class="time">🕒 ${news.timestamp}</div>
-            `;
-
-            container.appendChild(card);
-        });
+        filtered.forEach(news => container.appendChild(buildCard(news)));
     });
 }
+
+function buildCard(news) {
+    const card = document.createElement("div");
+    card.className = "news-card";
+
+    card.innerHTML = `
+        <div class="source">${news.source}</div>
+        <div class="title">
+            <a href="${news.link}" target="_blank">${news.title}</a>
+        </div>
+        <div class="translated">${news.translated}</div>
+        <div class="time">🕒 ${news.timestamp}</div>
+    `;
+    return card;
+}
+
+
+// ----------------------------
+// Search Function
+// ----------------------------
+document.getElementById("searchBox").addEventListener("input", function() {
+    const keyword = this.value.toLowerCase();
+
+    const filtered = allNews.filter(n =>
+        n.title.toLowerCase().includes(keyword) ||
+        n.translated.toLowerCase().includes(keyword) ||
+        n.source.toLowerCase().includes(keyword)
+    );
+
+    renderSections(filtered);
+});
+
 
 loadNews();
 </script>
