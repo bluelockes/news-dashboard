@@ -20,15 +20,21 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser requests
 
+      # ---- Debug: ดูว่าไฟล์อยู่ไหน ----
+      - name: Debug directory
+        run: |
+          pwd
+          ls -R .
+
+      # ---- รันสคริปต์ ----
       - name: Run script
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        working-directory: .
         run: python scripts/fetch_and_update.py
 
+      # ---- commit ----
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add data/news.json
-          git commit -m "Update news" || echo "No changes"
-          git push
+          git confi
