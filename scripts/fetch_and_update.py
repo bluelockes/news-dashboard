@@ -30,7 +30,7 @@ def save_db(data):
 def translate_text(text):
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
-        "Authorization": f"Bearer {OPENAI_API_KEY}",
+        "Authorization": f"Bearer {OPENAI_KEY}",
         "Content-Type": "application/json"
     }
     payload = {
