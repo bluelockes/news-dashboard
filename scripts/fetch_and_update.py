@@ -29,16 +29,29 @@ def save_db(data):
 
 def translate_text(text):
     url = "https://api.openai.com/v1/chat/completions"
-    headers = {"Authorization": f"Bearer {OPENAI_KEY}"}
-    payload = {
-        "model": "gpt-4.1",
-        "messages": [
-            {"role": "system", "content": "Translate English news to natural Thai."},
-            {"role": "user", "content": text}
-        ]
+    headers = {
+        "Authorization": f"Bearer {OPENAI_API_KEY}",
+        "Content-Type": "application/json"
     }
-    r = requests.post(url, json=payload, headers=headers)
-    return r.json()["choices"][0]["message"]["content"]
+    payload = {
+        "model": "gpt-4o-mini",
+        "messages": [
+            {"role": "system", "content": "Translate the text into Thai. Keep meaning accurate."},
+            {"role": "user", "content": text}
+        ],
+        "max_tokens": 500
+    }
+
+    r = requests.post(url, headers=headers, json=payload)
+
+    try:
+        data = r.json()
+        return data["choices"][0]["message"]["content"]
+    except:
+        # debug log (เพื่อดูว่ามี error อะไร)
+        print("OpenAI API Error:", r.status_code, r.text)
+        return "TRANSLATION ERROR"
+
 
 
 def main():
