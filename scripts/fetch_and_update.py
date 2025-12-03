@@ -27,30 +27,46 @@ def save_db(data):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
+import requests
+import os
+
 def translate_text(text):
+    api_key = os.getenv("OPENAI_API_KEY")
+
     url = "https://api.openai.com/v1/chat/completions"
+
     headers = {
-        "Authorization": f"Bearer {OPENAI_KEY}",
+        "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"
     }
-    payload = {
+
+    data = {
         "model": "gpt-4o-mini",
         "messages": [
-            {"role": "system", "content": "Translate the text into Thai. Keep meaning accurate."},
+            {"role": "system", "content": "Translate the following news into Thai."},
             {"role": "user", "content": text}
         ],
-        "max_tokens": 500
+        "max_tokens": 300
     }
 
-    r = requests.post(url, headers=headers, json=payload)
+    r = requests.post(url, headers=headers, json=data)
+    res = r.json()
+
+    # --- ดักรูปแบบ response ทั้งแบบเก่าและใหม่ ---
+    try:
+        # รูปแบบ chat-completions ใหม่
+        return res["choices"][0]["message"]["content"]
+    except:
+        pass
 
     try:
-        data = r.json()
-        return data["choices"][0]["message"]["content"]
+        # รูปแบบ responses API
+        return res["output_text"]
     except:
-        # debug log (เพื่อดูว่ามี error อะไร)
-        print("OpenAI API Error:", r.status_code, r.text)
-        return "TRANSLATION ERROR"
+        pass
+
+    # --- ถ้าพังหมด ส่งข้อความ error กลับไปแทน ---
+    return f"[TRANSLATION ERROR] raw_response: {res}"
 
 
 
