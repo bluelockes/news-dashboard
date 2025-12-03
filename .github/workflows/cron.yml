@@ -5,6 +5,9 @@ on:
     - cron: "0 * * * *"   # ทุกชั่วโมง
   workflow_dispatch:
 
+permissions:
+  contents: write   # ให้สิทธิ์ push กลับ repo
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -20,20 +23,19 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser requests
 
-      # ---- Debug: ดูว่าไฟล์อยู่ไหน ----
+      # Debug: ดูโฟลเดอร์
       - name: Debug directory
         run: |
           pwd
           ls -R .
 
-      # ---- รันสคริปต์ ----
+      # Run script
       - name: Run script
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        working-directory: .
         run: python scripts/fetch_and_update.py
 
-      # ---- commit ----
+      # Commit & Push
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
@@ -41,4 +43,3 @@ jobs:
           git add data/news.json
           git commit -m "Update news" || echo "No changes"
           git push
-
