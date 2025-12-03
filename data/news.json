@@ -1,9 +1,1 @@
-news-dashboard/
- ├── data/
- │     └── news.json
- ├── scripts/
- │     └── fetch_and_update.py
- ├── index.html
- └── .github/
-       └── workflows/
-             └── cron.yml
+[]
