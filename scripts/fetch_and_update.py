@@ -33,7 +33,7 @@ import os
 def translate_text(text):
     api_key = os.getenv("OPENAI_API_KEY")
 
-    url = "https://api.openai.com/v1/chat/completions"
+    url = "https://api.openai.com/v1/responses"
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -42,30 +42,20 @@ def translate_text(text):
 
     data = {
         "model": "gpt-4o-mini",
-        "messages": [
-            {"role": "system", "content": "Translate the following news into Thai."},
-            {"role": "user", "content": text}
-        ],
-        "max_tokens": 300
+        "input": f"Translate this news headline into Thai:\n{text}",
+        "max_output_tokens": 200
     }
 
     r = requests.post(url, headers=headers, json=data)
     res = r.json()
 
-    # --- ดักรูปแบบ response ทั้งแบบเก่าและใหม่ ---
+    # --- ตัวใหม่: responses API ---
     try:
-        # รูปแบบ chat-completions ใหม่
-        return res["choices"][0]["message"]["content"]
+        return res["output"][0]["content"][0]["text"]
     except:
         pass
 
-    try:
-        # รูปแบบ responses API
-        return res["output_text"]
-    except:
-        pass
-
-    # --- ถ้าพังหมด ส่งข้อความ error กลับไปแทน ---
+    # fallback
     return f"[TRANSLATION ERROR] raw_response: {res}"
 
 
