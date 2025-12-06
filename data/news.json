@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Legendary architect Frank Gehry dies aged 96",
+    "link": "https://www.bbc.com/news/articles/c5y2p22z9gno?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-06T10:21:59.327420"
+  },
+  {
+    "source": "BBC",
     "title": "Deadly border fighting breaks out between Pakistan and Afghanistan",
     "link": "https://www.bbc.com/news/articles/cn09zp87pz8o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
