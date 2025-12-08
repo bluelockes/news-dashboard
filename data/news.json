@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC",
+    "title": "Water leak in Louvre damages hundreds of books",
+    "link": "https://www.bbc.com/news/articles/c2dzjk9d825o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-08T07:26:25.235411"
+  },
+  {
+    "source": "BBC",
+    "title": "Japan protests after Chinese fighter jets lock radar on Japanese planes",
+    "link": "https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-08T07:26:32.561614"
+  },
+  {
+    "source": "BBC",
     "title": "Zelensky due at Downing Street for high-level Ukraine talks",
     "link": "https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
