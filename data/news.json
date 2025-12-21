@@ -1,6 +1,27 @@
 [
   {
     "source": "BBC",
+    "title": "US reportedly pursuing third oil tanker linked to Venezuela",
+    "link": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-21T22:21:37.590728"
+  },
+  {
+    "source": "BBC",
+    "title": "In rebel-held Myanmar, civilians face devastating air strikes and a sham election",
+    "link": "https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-21T22:21:42.814876"
+  },
+  {
+    "source": "BBC",
+    "title": "A memorial ends - but Bondi tragedy has left Australia reeling, again",
+    "link": "https://www.bbc.com/news/articles/cn8eknv7zkyo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-21T22:21:49.544521"
+  },
+  {
+    "source": "BBC",
     "title": "Israel approves 19 new settlements in occupied West Bank",
     "link": "https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1377,26 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-03T17:25:01.027404"
-  },
-  {
-    "source": "BBC",
-    "title": "What latest Ukraine talks reveal about Putin's state of mind",
-    "link": "https://www.bbc.com/news/articles/cpq4e21nr5vo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-03T16:33:08.560725"
-  },
-  {
-    "source": "BBC",
-    "title": "Hong Kong orders removal of scaffolding mesh after deadly blaze",
-    "link": "https://www.bbc.com/news/articles/c62lv79p0pdo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-03T16:33:14.631113"
-  },
-  {
-    "source": "BBC",
-    "title": "Israel says Rafah crossing to open soon to let Palestinians leave Gaza via Egypt",
-    "link": "https://www.bbc.com/news/articles/cpwk7xen544o?at_medium=RSS&at_campaign=rss",
-    "translated": "TRANSLATION ERROR",
-    "timestamp": "2025-12-03T14:16:41.930312"
   }
 ]
