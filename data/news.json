@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC",
+    "title": "Minute's silence held to remember Bondi Beach attack victims",
+    "link": "https://www.bbc.com/news/articles/cre3l2xq9nzo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-21T12:43:01.321829"
+  },
+  {
+    "source": "BBC",
+    "title": "Rights groups condemn new record number of executions in Saudi Arabia",
+    "link": "https://www.bbc.com/news/articles/cg5m49j14pyo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-21T12:43:08.425565"
+  },
+  {
+    "source": "BBC",
     "title": "How Israel's grassroots hostage families group became a powerful international force",
     "link": "https://www.bbc.com/news/articles/cm20ppy0rreo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1384,19 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&at_campaign=rss",
     "translated": "TRANSLATION ERROR",
     "timestamp": "2025-12-03T14:00:38.580020"
-  },
-  {
-    "source": "BBC",
-    "title": "Crisis looms in Israel over ultra-Orthodox conscription bill",
-    "link": "https://www.bbc.com/news/articles/cly580gkd9ro?at_medium=RSS&at_campaign=rss",
-    "translated": "TRANSLATION ERROR",
-    "timestamp": "2025-12-03T14:00:38.673177"
-  },
-  {
-    "source": "BBC",
-    "title": "Former EU top diplomat Mogherini accused in fraud investigation",
-    "link": "https://www.bbc.com/news/articles/c2lvzrve5lqo?at_medium=RSS&at_campaign=rss",
-    "translated": "TRANSLATION ERROR",
-    "timestamp": "2025-12-03T14:00:38.807904"
   }
 ]
