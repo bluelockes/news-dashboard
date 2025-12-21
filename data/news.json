@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Israel approves 19 new settlements in occupied West Bank",
+    "link": "https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-21T15:20:59.743356"
+  },
+  {
+    "source": "BBC",
     "title": "Minute's silence held to remember Bondi Beach attack victims",
     "link": "https://www.bbc.com/news/articles/cre3l2xq9nzo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cpwk7xen544o?at_medium=RSS&at_campaign=rss",
     "translated": "TRANSLATION ERROR",
     "timestamp": "2025-12-03T14:16:41.930312"
-  },
-  {
-    "source": "BBC",
-    "title": "Trump says he does not want Somalis in US as ICE plans Minnesota operation",
-    "link": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&at_campaign=rss",
-    "translated": "TRANSLATION ERROR",
-    "timestamp": "2025-12-03T14:00:38.580020"
   }
 ]
