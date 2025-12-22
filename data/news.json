@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC",
+    "title": "Wildfire-hit town wins 468m euros in Spain's Christmas lottery",
+    "link": "https://www.bbc.com/news/articles/cz7ndpq42y0o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-22T21:20:45.105612"
+  },
+  {
+    "source": "BBC",
+    "title": "NGOs fear Israel registration rules risk collapse of Gaza aid operations",
+    "link": "https://www.bbc.com/news/articles/cx2dmj7p8y2o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-22T21:20:50.466439"
+  },
+  {
+    "source": "BBC",
     "title": "Russia escalates attacks on key Ukrainian region of Odesa",
     "link": "https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1384,19 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cd6x2ppjv4go?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-05T06:36:09.632559"
-  },
-  {
-    "source": "BBC",
-    "title": "Police recover $19k Fabergé egg swallowed by NZ man",
-    "link": "https://www.bbc.com/news/articles/cj4qedglzpwo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-05T06:36:15.880134"
-  },
-  {
-    "source": "BBC",
-    "title": "Prominent anti-Hamas militia leader Yasser Abu Shabab killed in Gaza",
-    "link": "https://www.bbc.com/news/articles/cz0nd088e09o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-04T22:19:58.546666"
   }
 ]
