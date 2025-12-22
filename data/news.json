@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "US and Ukraine call Miami talks productive despite no breakthrough",
+    "link": "https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-22T05:27:04.290027"
+  },
+  {
+    "source": "BBC",
     "title": "Another 130 abducted schoolchildren released in Nigeria",
     "link": "https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cdxekqryn1jo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-04T06:35:59.553041"
-  },
-  {
-    "source": "BBC",
-    "title": "Stop wasting the world's time, Ukraine tells Putin after US talks in Moscow",
-    "link": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-03T20:27:22.244025"
   }
 ]
