@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Trump names envoy to Greenland, sparking fresh row with Denmark",
+    "link": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-22T14:24:02.119632"
+  },
+  {
+    "source": "BBC",
     "title": "US lawmakers threaten legal action against Attorney General over Epstein files",
     "link": "https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-04T18:36:30.674418"
-  },
-  {
-    "source": "BBC",
-    "title": "'Like first aid for manuscripts': Recovery work begins at Gaza's war-damaged heritage sites",
-    "link": "https://www.bbc.com/news/articles/c157n1g977go?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-04T17:24:48.980272"
   }
 ]
