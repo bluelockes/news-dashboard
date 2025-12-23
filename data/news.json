@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Trump says US will keep or sell oil seized from Venezuela",
+    "link": "https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-23T11:21:15.199802"
+  },
+  {
+    "source": "BBC",
     "title": "Five dead after plane carrying child burns victim crashes in Texas",
     "link": "https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-05T14:24:08.572063"
-  },
-  {
-    "source": "BBC",
-    "title": "Putin says Russia ready to supply 'uninterrupted' fuel to India",
-    "link": "https://www.bbc.com/news/articles/c4g482m3yyzo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-05T13:33:51.561830"
   }
 ]
