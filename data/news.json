@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Gunmen abduct 28 Muslim travellers in central Nigeria",
+    "link": "https://www.bbc.com/news/articles/czj0ll7ppewo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-23T18:34:40.035672"
+  },
+  {
+    "source": "BBC",
     "title": "US economy grows at fastest pace in two years",
     "link": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cn09zp87pz8o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-06T07:20:28.614400"
-  },
-  {
-    "source": "BBC",
-    "title": "US says progress made at talks with Ukraine on plan to end war",
-    "link": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-06T07:20:34.631993"
   }
 ]
