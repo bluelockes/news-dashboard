@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "US denies visas to ex-EU commissioner and others over social media rules",
+    "link": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-24T03:26:01.066842"
+  },
+  {
+    "source": "BBC",
     "title": "Trump trips, a fake video and 10 possible co-conspirators - Takeaways from new Epstein files",
     "link": "https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cr7l4n89lr1o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-06T20:23:26.218590"
-  },
-  {
-    "source": "BBC",
-    "title": "Iran arrests marathon organisers over women not wearing hijab",
-    "link": "https://www.bbc.com/news/articles/c3e0z97qn3eo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-06T19:17:06.661823"
   }
 ]
