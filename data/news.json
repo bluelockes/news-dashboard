@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC",
+    "title": "Zelensky says Ukrainian withdrawal from the East possible in latest peace plan",
+    "link": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-24T10:25:07.313393"
+  },
+  {
+    "source": "BBC",
+    "title": "Venezuela accuses US of 'extortion' over seizure of oil tankers",
+    "link": "https://www.bbc.com/news/articles/cd749gqgg11o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-24T10:25:13.201922"
+  },
+  {
+    "source": "BBC",
     "title": "US denies visas to ex-EU commissioner and others over social media rules",
     "link": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1384,19 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-07T05:20:31.476840"
-  },
-  {
-    "source": "BBC",
-    "title": "Zelensky signals progress in talks with US on peace plan",
-    "link": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-06T20:23:20.676043"
-  },
-  {
-    "source": "BBC",
-    "title": "Americans to get free entry to parks on Trump's birthday",
-    "link": "https://www.bbc.com/news/articles/cr7l4n89lr1o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-06T20:23:26.218590"
   }
 ]
