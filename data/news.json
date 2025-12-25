@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
+    "link": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-25T22:21:51.429185"
+  },
+  {
+    "source": "BBC",
     "title": "Brazil ex-President Jair Bolsonaro's surgery for hernia 'successful'",
     "link": "https://www.bbc.com/news/articles/c898zxyznxpo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-08T08:34:28.014957"
-  },
-  {
-    "source": "BBC",
-    "title": "One hundred abducted schoolchildren released in Nigeria",
-    "link": "https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-08T08:34:33.184824"
   }
 ]
