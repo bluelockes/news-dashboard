@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC",
+    "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-26T15:24:02.264167"
+  },
+  {
+    "source": "BBC",
+    "title": "Blast at Syrian mosque during Friday prayers leaves at least eight dead",
+    "link": "https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-26T15:24:07.564315"
+  },
+  {
+    "source": "BBC",
     "title": "Ex-Malaysia PM Najib Razak given 15-year jail term over state funds scandal",
     "link": "https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1384,19 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-09T01:49:11.007768"
-  },
-  {
-    "source": "BBC",
-    "title": "Three-year-old girl killed in Gaza by Israeli forces, local sources say",
-    "link": "https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-08T21:19:34.088679"
-  },
-  {
-    "source": "BBC",
-    "title": "European leaders walk tightrope between backing Ukraine and keeping US on board",
-    "link": "https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-08T18:35:18.192162"
   }
 ]
