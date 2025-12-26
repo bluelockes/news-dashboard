@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC",
+    "title": "Two killed in suspected Palestinian ramming and knife attack in Israel",
+    "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-26T12:47:24.482192"
+  },
+  {
+    "source": "BBC",
+    "title": "Thailand bombs Cambodian border area as ceasefire talks continue",
+    "link": "https://www.bbc.com/news/articles/c4gk15x85jlo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-26T12:47:30.196042"
+  },
+  {
+    "source": "BBC",
     "title": "US launches deadly strikes against Islamic State in Nigeria, says Trump",
     "link": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1384,19 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-08T17:22:19.983392"
-  },
-  {
-    "source": "BBC",
-    "title": "Elon Musk's X bans European Commission from making ads after €120m fine",
-    "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-08T17:22:24.455589"
-  },
-  {
-    "source": "BBC",
-    "title": "Hunt under way for Benin coup plotters as two hostages reportedly freed",
-    "link": "https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-08T15:26:27.691382"
   }
 ]
