@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Ex-Malaysia PM Najib Razak given 15-year jail term over state funds scandal",
+    "link": "https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-26T14:23:05.013292"
+  },
+  {
+    "source": "BBC",
     "title": "Two killed in suspected Palestinian ramming and knife attack in Israel",
     "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-08T18:35:18.192162"
-  },
-  {
-    "source": "BBC",
-    "title": "Paramount launches rival bid for Warner Bros Discovery",
-    "link": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-08T17:22:19.983392"
   }
 ]
