@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC",
+    "title": "Snow-capped Mount Etna erupts as skiers glide down slopes",
+    "link": "https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-28T07:21:58.281512"
+  },
+  {
+    "source": "BBC",
+    "title": "Cruise ship hits reef on first trip since leaving passenger on island",
+    "link": "https://www.bbc.com/news/articles/cd9z1k4g40jo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-28T07:22:05.123676"
+  },
+  {
+    "source": "BBC",
     "title": "War-torn Myanmar voting in widely criticised 'sham' election",
     "link": "https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1384,19 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-09T13:37:46.342650"
-  },
-  {
-    "source": "BBC",
-    "title": "EU investigates Google over AI-generated summaries in search results",
-    "link": "https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-09T12:50:12.385624"
-  },
-  {
-    "source": "BBC",
-    "title": "Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia",
-    "link": "https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-09T10:27:58.007796"
   }
 ]
