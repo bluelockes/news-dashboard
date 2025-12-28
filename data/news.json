@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Two killed in Sweden as major storm sweeps across Nordic countries",
+    "link": "https://www.bbc.com/news/articles/cdj817m37rgo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-28T09:22:58.439411"
+  },
+  {
+    "source": "BBC",
     "title": "Snow-capped Mount Etna erupts as skiers glide down slopes",
     "link": "https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-09T15:28:21.958542"
-  },
-  {
-    "source": "BBC",
-    "title": "Congress ups pressure to release boat strike video with threat to Hegseth's travel budget",
-    "link": "https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-09T13:37:46.342650"
   }
 ]
