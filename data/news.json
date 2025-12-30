@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Thieves use drill to steal €30m in German bank heist",
+    "link": "https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-30T17:23:06.841824"
+  },
+  {
+    "source": "BBC",
     "title": "Protests spread across Iran for third day after currency plummets",
     "link": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-11T14:24:20.970919"
-  },
-  {
-    "source": "BBC",
-    "title": "Austria bans headscarves in schools for under-14s",
-    "link": "https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-11T14:24:25.642475"
   }
 ]
