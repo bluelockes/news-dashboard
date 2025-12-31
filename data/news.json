@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Bulgaria joins the euro after rocky path to new currency",
+    "link": "https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-31T22:23:00.315251"
+  },
+  {
+    "source": "BBC",
     "title": "Finnish police seize ship suspected of sabotaging undersea cable",
     "link": "https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-12T12:49:43.178524"
-  },
-  {
-    "source": "BBC",
-    "title": "Taylor Swift shown breaking down in tears after she met UK attack families",
-    "link": "https://www.bbc.com/news/articles/czxgnqx1yplo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-12T11:22:33.985378"
   }
 ]
