@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Heavy police presence in Sydney for New Year's celebrations after Bondi attack",
+    "link": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-31T12:49:04.917490"
+  },
+  {
+    "source": "BBC",
     "title": "Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move",
     "link": "https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-12T07:25:15.203253"
-  },
-  {
-    "source": "BBC",
-    "title": "Flood misery for Gazans awaiting next stage of peace plan",
-    "link": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-12T06:36:50.909023"
   }
 ]
