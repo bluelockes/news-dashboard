@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "EU's top diplomat rejects Russian claims of Ukrainian attack on government sites",
+    "link": "https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-31T15:23:47.329882"
+  },
+  {
+    "source": "BBC",
     "title": "Heavy police presence in Sydney for New Year's celebrations after Bondi attack",
     "link": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-12T07:25:08.825822"
-  },
-  {
-    "source": "BBC",
-    "title": "Eurovision winner Nemo to return trophy in protest at Israel",
-    "link": "https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-12T07:25:15.203253"
   }
 ]
