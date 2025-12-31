@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Jailed Hong Kong tycoon's 'teeth rotting and fingernails falling off'",
+    "link": "https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2025-12-31T08:33:01.269369"
+  },
+  {
+    "source": "BBC",
     "title": "Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35",
     "link": "https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-12T01:51:20.290228"
-  },
-  {
-    "source": "BBC",
-    "title": "Tricked, abducted and abused: Inside China's schools for 'rebellious' teens",
-    "link": "https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-12T01:51:26.492145"
   }
 ]
