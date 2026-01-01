@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Zohran Mamdani sworn in as first Muslim New York City Mayor",
+    "link": "https://www.bbc.com/news/videos/c4glvg5yrlyo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-01T08:32:29.421448"
+  },
+  {
+    "source": "BBC",
     "title": "Two dead in 50-vehicle pile up on Japan highway",
     "link": "https://www.bbc.com/news/articles/c157e9dddwwo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c4gk34k9k23o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-13T03:17:57.016800"
-  },
-  {
-    "source": "BBC",
-    "title": "Turkish car ferry damaged in strike at Ukrainian port",
-    "link": "https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-12T21:20:21.480968"
   }
 ]
