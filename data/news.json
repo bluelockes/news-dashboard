@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Zelensky says peace deal is 90% ready in New Year address",
+    "link": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-01T05:30:05.955339"
+  },
+  {
+    "source": "BBC",
     "title": "What are Russians hoping for in 2026, asks Steve Rosenberg",
     "link": "https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-12T21:20:26.594301"
-  },
-  {
-    "source": "BBC",
-    "title": "Farmers call for French blockades over cow disease cull",
-    "link": "https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-12T20:25:54.892633"
   }
 ]
