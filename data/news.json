@@ -1,6 +1,27 @@
 [
   {
     "source": "BBC",
+    "title": "Maduro says Venezuela open to US talks on drug trafficking",
+    "link": "https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-02T05:27:50.015352"
+  },
+  {
+    "source": "BBC",
+    "title": "'You're invisible, you don't exist' - life without a birth certificate",
+    "link": "https://www.bbc.com/news/articles/cx2drqwp2eyo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-02T05:27:54.754561"
+  },
+  {
+    "source": "BBC",
+    "title": "China's BYD set to overtake Tesla as world's top EV seller",
+    "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-02T05:28:01.066707"
+  },
+  {
+    "source": "BBC",
     "title": "Two killed in clashes between protesters and security forces in Iran",
     "link": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1377,26 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-14T09:22:31.927156"
-  },
-  {
-    "source": "BBC",
-    "title": "Manhunt continues after two killed in shooting at Brown University",
-    "link": "https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-14T07:21:28.900178"
-  },
-  {
-    "source": "BBC",
-    "title": "Angry fans throw chairs and bottles at Messi event in India",
-    "link": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-13T21:19:19.041083"
-  },
-  {
-    "source": "BBC",
-    "title": "Two US soldiers and interpreter killed by IS gunman in Syria, US says",
-    "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-13T18:29:36.336645"
   }
 ]
