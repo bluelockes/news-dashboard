@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC",
+    "title": "Zelensky names spy chief to head presidential office",
+    "link": "https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-02T14:23:25.563918"
+  },
+  {
+    "source": "BBC",
+    "title": "Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson",
+    "link": "https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-02T14:23:31.418489"
+  },
+  {
+    "source": "BBC",
     "title": "Trump warns US will intervene if Iran kills protesters",
     "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1384,19 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-15T06:39:13.692798"
-  },
-  {
-    "source": "BBC",
-    "title": "Eyewitness captures moment man tackles and disarms Bondi shooter",
-    "link": "https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-14T12:42:40.856975"
-  },
-  {
-    "source": "BBC",
-    "title": "'Person of interest' detained over Brown University shooting, police say",
-    "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-14T12:42:47.510349"
   }
 ]
