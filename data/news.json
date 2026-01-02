@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Swiss bar fire likely started by sparklers on champagne bottles",
+    "link": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-02T17:19:53.503659"
+  },
+  {
+    "source": "BBC",
     "title": "'Living a nightmare': Families of teens missing after ski resort fire desperate for news",
     "link": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-15T12:52:34.211068"
-  },
-  {
-    "source": "BBC",
-    "title": "Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces",
-    "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-15T07:26:53.299131"
   }
 ]
