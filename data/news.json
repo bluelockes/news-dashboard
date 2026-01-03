@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "More than 100 shelter overnight in Japan shrine due to heavy snow",
+    "link": "https://www.bbc.com/news/articles/cj3vmekg7ddo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-03T14:21:08.092219"
+  },
+  {
+    "source": "BBC",
     "title": "What we know about Maduro's capture",
     "link": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-15T22:22:59.954134"
-  },
-  {
-    "source": "BBC",
-    "title": "Rob Reiner's son Nick arrested for murder after director and wife found dead",
-    "link": "https://www.bbc.com/news/articles/ce8qnzd680ro?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-15T22:23:06.170309"
   }
 ]
