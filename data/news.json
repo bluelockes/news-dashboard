@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Police identify first four victims of Swiss ski resort fire",
+    "link": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-03T11:18:41.504978"
+  },
+  {
+    "source": "BBC",
     "title": "Trump promise to intervene over Iran protests 'reckless' says foreign minister",
     "link": "https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-15T18:35:57.426284"
-  },
-  {
-    "source": "BBC",
-    "title": "Iranian Nobel laureate taken to hospital after 'violent arrest', family says",
-    "link": "https://www.bbc.com/news/articles/c2dz15556l1o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-15T18:36:03.066647"
   }
 ]
