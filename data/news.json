@@ -1,6 +1,20 @@
 [
   {
     "source": "BBC",
+    "title": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",
+    "link": "https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-04T02:04:53.653321"
+  },
+  {
+    "source": "BBC",
+    "title": "Joint UK-French air strike targets IS arms cache in Syria",
+    "link": "https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-04T02:05:00.462579"
+  },
+  {
+    "source": "BBC",
     "title": "How UK plush toy Jellycat conquered China",
     "link": "https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1384,19 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-16T10:28:13.322448"
-  },
-  {
-    "source": "BBC",
-    "title": "Trump repeats criticism of killed Hollywood director Rob Reiner",
-    "link": "https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-16T10:28:19.681647"
-  },
-  {
-    "source": "BBC",
-    "title": "NSW premier defends police response to Bondi attack",
-    "link": "https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-16T08:33:53.711902"
   }
 ]
