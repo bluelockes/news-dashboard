@@ -1,6 +1,13 @@
 [
   {
     "source": "BBC",
+    "title": "Trump says US will 'run' Venezuela and 'fix oil infrastructure'",
+    "link": "https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss",
+    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "timestamp": "2026-01-04T07:24:03.010294"
+  },
+  {
+    "source": "BBC",
     "title": "Spies, drones and blowtorches: How the US captured Maduro",
     "link": "https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
@@ -1391,12 +1398,5 @@
     "link": "https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&at_campaign=rss",
     "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
     "timestamp": "2025-12-16T13:40:14.970637"
-  },
-  {
-    "source": "BBC",
-    "title": "'Best of our country': Australian PM visits Bondi hero in hospital",
-    "link": "https://www.bbc.com/news/articles/cvg13z47vpdo?at_medium=RSS&at_campaign=rss",
-    "translated": "[TRANSLATION ERROR] You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "timestamp": "2025-12-16T12:51:04.066327"
   }
 ]
